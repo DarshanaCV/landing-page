@@ -1,1 +1,1 @@
-link: travelvibe.000.pe
+[link to the landing page](travelvibe.000.pe)
